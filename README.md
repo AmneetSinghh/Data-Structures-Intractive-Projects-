@@ -1,2 +1,1 @@
-# Data-Structures-Intractive-Projects-
-These made in 2020
+# Data-Structures-Intractive-Projects
