@@ -1,7 +1,3 @@
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
 <h2>These are some Intractive Games which I made using the javascript, Phaser and html5. In every game,I am showing the real world application of Data Structures.</h2>
 <hr>
 1. <b>Snake Game </b>:
