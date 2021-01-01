@@ -1,15 +1,7 @@
+<!--
 <html>
-    
-    
-    <head>
-    
-    
-    
-    
-    </head>
-
-    
     <body>
+-->
     
     <h2>These are some Intractive Games which I made using the javascript, Phaser and html5. In every game,
 I am showing the real world application of Data Structures.</h2>
@@ -28,10 +20,11 @@ In this game, I used Collision Detection algorithm. When my player collide with 
 <p>In this game, I used the Phaser Framework in javascript to make a simple spin-win game. when the user click on the wheel, it will rool for some random seconds then it will show you the result. I used concepsts image loading, spride and tweens in phaser.
 </p>
 
+<!--
     </body>
 
 
 
 
 
-</html>
+</html>-->
